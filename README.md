@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phuc Nguyen</h1>
 
-<h3 align="center">AI Evangelist & Senior BrSE with 8+ years of experience</h3>
+<h3 align="center">AI Evangelist & Senior BrSE with 10+ years of experience</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phuc-nt&color=blue" alt="Profile views" />
@@ -39,12 +39,12 @@ AI toolkit for creators — transcribe, translate, summary, chapters, YouTube pa
 </td>
 <td width="33%" valign="top">
 
-### 📱 [my-translator-mobile](https://github.com/phuc-nt/my-translator-mobile)
-Live translation for talks & lectures — point your phone at the speaker, read in real time, BYOK
+### 🗄️ [my-db-mate](https://github.com/phuc-nt/my-db-mate)
+AI-powered database assistant — query, explore & manage your DB in natural language, BYOK
 
-![Stars](https://img.shields.io/github/stars/phuc-nt/my-translator-mobile?style=flat-square) ![Forks](https://img.shields.io/github/forks/phuc-nt/my-translator-mobile?style=flat-square)
+![Stars](https://img.shields.io/github/stars/phuc-nt/my-db-mate?style=flat-square) ![Forks](https://img.shields.io/github/forks/phuc-nt/my-db-mate?style=flat-square)
 
-`iOS` `Android` `Soniox` `OpenAI` `Real-time`
+`SQL` `AI` `OpenAI` `Database`
 
 </td>
 </tr>
