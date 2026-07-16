@@ -29,12 +29,12 @@ Real-time speech translation — macOS & Windows, free TTS, no server, your API 
 </td>
 <td width="33%" valign="top">
 
-### 🎬 [my-media-kit](https://github.com/phuc-nt/my-media-kit)
-AI toolkit for creators — transcribe, translate, summary, chapters, YouTube pack & viral clips from one video
+### 🤝 [my-crew](https://github.com/phuc-nt/my-crew)
+Multi-agent AI framework — orchestrate a crew of specialized agents to plan, collaborate & complete tasks together
 
-![Stars](https://img.shields.io/github/stars/phuc-nt/my-media-kit?style=flat-square) ![Forks](https://img.shields.io/github/forks/phuc-nt/my-media-kit?style=flat-square)
+![Stars](https://img.shields.io/github/stars/phuc-nt/my-crew?style=flat-square) ![Forks](https://img.shields.io/github/forks/phuc-nt/my-crew?style=flat-square)
 
-`Whisper` `OpenAI` `MLX` `SRT` `macOS` `Windows`
+`Multi-agent` `LLM` `Orchestration` `Python`
 
 </td>
 <td width="33%" valign="top">
